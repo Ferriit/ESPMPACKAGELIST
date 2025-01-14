@@ -1,5 +1,4 @@
 {
     "spkg": ["https://github.com/Ferriit/SPKG.git", "SPKG"],
-    "calium": ["https://github.com/Ferriit/CaliumLang.git", "CaliumLang"],
     "packagelist": ["https://github.com/Ferriit/ESPMPACKAGELIST.git", "ESPMPACKAGELIST"]
 }
