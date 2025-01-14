@@ -1,0 +1,11 @@
+{
+  "language": "json",
+  "compile": false,
+  "version": "0.1",
+  "developer": "EdgeSoft",
+  "compilecommand": "",
+  "compiler": "",
+  "execute":
+  [],
+  "dependencies": []
+}
