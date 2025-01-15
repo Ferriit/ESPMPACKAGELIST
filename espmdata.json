@@ -5,6 +5,9 @@
   "developer": "EdgeSoft",
   "compilecommand": "",
   "compiler": "",
+  "languageinstallcommands": [
+    ""
+  ],
   "execute":
   [],
   "dependencies": []
