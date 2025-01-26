@@ -1,5 +1,6 @@
 {
     "spkg": ["https://github.com/Ferriit/SPKG.git", "SPKG"],
     "caliumlang": ["https://github.com/Ferriit/CaliumLang.git", "CaliumLang"],
-    "packagelist": ["https://github.com/Ferriit/ESPMPACKAGELIST.git", "ESPMPACKAGELIST"]
+    "packagelist": ["https://github.com/Ferriit/ESPMPACKAGELIST.git", "ESPMPACKAGELIST"],
+    "caliumlite": ["https://github.com/Ferriit/CaliumEngineLite.git", "CaliumEngineLite"]
 }
